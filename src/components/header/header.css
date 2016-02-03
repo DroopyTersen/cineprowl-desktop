@@ -1,0 +1,26 @@
+header {
+	background: #333;
+	color: #efefef;
+	margin:0;
+	position: absolute;
+	left:0;
+	top:0;
+	width:100%;
+}
+nav {
+	position: absolute;
+	right:0;
+}
+header h1 {
+	float:left;
+}
+nav ul {
+	list-style: none;
+}
+nav ul li {
+	display: inline;
+}
+nav ul a {
+	color: #efefef;
+	text-decoration: none;
+}
